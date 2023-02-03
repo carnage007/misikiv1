@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "499002292858",
+    "project_id": "my-loco-food",
+    "storage_bucket": "my-loco-food.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:499002292858:android:02847bb0fdf48d30b299c3",
+        "android_client_info": {
+          "package_name": "com.example.misikiv1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "499002292858-dk3p2la12o7o7853834doo5ninkrijc2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBN1Suj0Q8ie6gB4bls9VRL1gijfaZIiwU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "499002292858-dk3p2la12o7o7853834doo5ninkrijc2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "499002292858-c4lq5a6tlnl7j38oov38sff3s7ag9eoj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.misikiv1"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
